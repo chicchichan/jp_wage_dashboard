@@ -1,5 +1,5 @@
 # jp_wage_dashboard
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://youtu.be/T-HY9mgXNmM>
 #### This project visualize Japanese economic data with four types of graphs.
 You can see the economical data: 1. average wage per person, 2. transition of wage per person, 3. average wage of ages and 4. transition of wage by industries.
 
